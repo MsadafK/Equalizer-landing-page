@@ -178,7 +178,7 @@ footer {
   }
 }
 
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
   .pricing-container {
     /* margin: 16em 0 8em 0; */
     height: 95vh;
