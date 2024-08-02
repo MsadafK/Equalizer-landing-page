@@ -256,13 +256,9 @@ footer {
   * {
     font-size: 20px;
   }
-  body {
-    border: 1px solid black;
-  }
   main {
     width: 80%;
     margin: 0 auto;
-    border: 1px solid red;
   }
   .logo {
     padding: 4em 0;
